@@ -1,1 +1,25 @@
-{}
+{
+  "name": "sborka",
+  "version": "1.0.1",
+  "description": "For studens",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nemolite/sborka.git"
+  },
+  "author": "sergey vushnyakov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Nemolite/sborka/issues"
+  },
+  "homepage": "https://github.com/Nemolite/sborka#readme",
+  "devDependencies": {
+    "browser-sync": "^2.27.7",
+    "gulp": "^4.0.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-uglify-es": "^3.0.0"
+  }
+}
